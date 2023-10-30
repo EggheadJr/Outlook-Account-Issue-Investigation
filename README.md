@@ -1,8 +1,6 @@
 # Outlook-Account-Issue-Investigation
 Unexpected Email Account Behavior in Outlook: A Security Concern
 
-**Unexpected Email Account Behavior in Outlook: A Security Concern**
-
 **Description:** 
 This repository documents an unexpected and potentially concerning behavior observed with an Outlook account. The primary goal is to raise awareness, share findings, and seek community input on the issue. By detailing the steps taken, web inspection findings, and recommendations, we aim to provide a comprehensive overview of the situation and gather insights that might help others facing similar challenges.
 
